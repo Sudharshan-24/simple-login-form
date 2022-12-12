@@ -1,1 +1,1 @@
-Simple Login Form using html/css
+Simple Login Form using HTML/CSS
